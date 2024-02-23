@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
   <em>
     This is Ravi Bodara, A <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> &nbsp;<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
